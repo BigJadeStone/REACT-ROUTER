@@ -6,6 +6,7 @@ const NewsHome = () => {
 
     return (
         <Fragment>
+            <h3>뉴스홈 데스트</h3>
             
         <NewsCategory/>
 
